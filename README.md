@@ -1,3 +1,14 @@
+
+#### Dev Livestream: 16.04.2026, 18:00 CET
+
+Upcoming stream to showcase the (now deprecated) Q-Validate crate! We'll dive into how we reached our PoCs this year and share the roadmap for the Q-Core Beta, which is slated for beta deployment later in 2026.
+
+Everyone is welcome! After the stream it’ll be decided if a recording will be uploaded.
+
+Till then!
+
+**Join here:** q-network.org/research
+
 # 1. Trait Based Generalization
 
 Our new code architecture moves away from rigid inheritance hierarchies in favor of **behavior driven design**. By using **traits**, we decouple *what a component can do* from *what a component is*.
